@@ -1,8 +1,6 @@
-# AS-DETR
+<h1 align="center">AS-DETR: Aerial Sparse DETR for Efficient Tiny Object Detection</h1>
 
-English | [简体中文](README.zh-CN.md)
-
-**Aerial Sparse DETR for Efficient Tiny Object Detection**
+<p align="center">English | <a href="README.zh-CN.md">简体中文</a></p>
 
 **Authors:** YangYang Tu and Xiwen Yao
 

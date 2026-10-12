@@ -1,10 +1,8 @@
-# AS-DETR
+<h1 align="center">AS-DETR: Aerial Sparse DETR for Efficient Tiny Object Detection</h1>
 
-[English](README.md) | 简体中文
+<h2 align="center">面向高效微小目标检测的航拍稀疏 DETR</h2>
 
-**论文标题：** Aerial Sparse DETR for Efficient Tiny Object Detection
-
-**中文译名：** 面向高效微小目标检测的航拍稀疏 DETR
+<p align="center"><a href="README.md">English</a> | 简体中文</p>
 
 **作者：** YangYang Tu、Xiwen Yao
 
