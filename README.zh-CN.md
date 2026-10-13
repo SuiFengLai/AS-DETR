@@ -4,8 +4,6 @@
 
 <p align="center"><a href="README.md">English</a> | 简体中文</p>
 
-**作者：** YangYang Tu、Xiwen Yao
-
 本仓库为 AS-DETR 的项目主页。完整代码和预训练权重将在论文录用后发布。
 
 ## 项目简介

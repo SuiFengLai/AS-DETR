@@ -2,8 +2,6 @@
 
 <p align="center">English | <a href="README.zh-CN.md">简体中文</a></p>
 
-**Authors:** YangYang Tu and Xiwen Yao
-
 This repository is the project page for AS-DETR. The complete source code and pretrained weights will be released after the paper is accepted.
 
 ## Overview
